@@ -6,4 +6,4 @@
 
 ## 算法流程图
 
-<\center>![](./picture/算法流程图.png#pic_center)<center>
+<center>![](./picture/算法流程图.png#pic_center)<\center>
