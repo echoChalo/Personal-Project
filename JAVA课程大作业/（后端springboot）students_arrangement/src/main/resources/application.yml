@@ -1,0 +1,13 @@
+#在application.yml文件中没有添加数据库配置信息.
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/student_arrangement?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: 13944tty
+    driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  port: 8082
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  mapper-locations: com/lzh/mapper/xml/*.xml
