@@ -5,7 +5,7 @@
 
 
 ## 算法流程图
-<center><img src="./picture/算法流程图.png"></center>
+<p align="center"><img src="./picture/算法流程图.png"></p>
 
 ## 源码来源
 [BRP](https://github.com/HonghuiZou/BRP)
